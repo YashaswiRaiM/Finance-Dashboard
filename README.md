@@ -22,7 +22,7 @@ Report has multiple section's from where you can manage the data, like :
 
 
 ## Link to the Dataset
-- [Finance Report Dataset](https://github.com/TheMrityunjayPathak/FinanceReportDashboard/blob/main/financial_data.csv)
+- [Finance Report Dataset](https://github.com/YashaswiRaiM/Finance-Dashboard/blob/main/financial_data.csv)
 
 <hr>
 
