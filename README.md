@@ -26,4 +26,4 @@ Report has multiple section's from where you can manage the data, like :
 
 <hr>
 
-![1681706976122](https://github.com/TheMrityunjayPathak/FinanceReportDashboard/assets/123563634/3bf0ea5e-1d2f-4062-9c21-d11682c66eb3)
+![1681706976122](https://github.com/YashaswiRaiM/Finance-Dashboard/blob/main/Finance.pbix)
